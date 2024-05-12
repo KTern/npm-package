@@ -1,0 +1,19 @@
+{
+  "name": "@kternai/npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTern/npm-package.git"
+  },
+  "author": "fedson@kaartech.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KTern/npm-package/issues"
+  },
+  "homepage": "https://github.com/KTern/npm-package#readme",
+  "description": ""
+}
