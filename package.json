@@ -15,5 +15,8 @@
     "url": "https://github.com/KTern/npm-package/issues"
   },
   "homepage": "https://github.com/KTern/npm-package#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
